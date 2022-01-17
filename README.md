@@ -1,4 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ael-korc)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ael-korc?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ael-korc)](https://github.com/mohouyizme/1337-readme)
 
