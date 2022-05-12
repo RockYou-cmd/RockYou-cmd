@@ -1,6 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ael-korc?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ael-korc)](https://github.com/mohouyizme/1337-readme)
+[![ael-korc's 42 stats](https://badge.mediaplus.ma/levi/ael-korc)](https://github.com/oakoudad/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilalae&label=Profile%20views&color=0e75b6&style=flat" alt="lilalae" /> </p>
 
