@@ -1,6 +1,6 @@
 [![ael-korc's 42 stats](https://badge.mediaplus.ma/levi/ael-korc)](https://github.com/oakoudad/badge42)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilalae&label=Profile%20views&color=0e75b6&style=flat" alt="lilalae" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilalae&label=Profile%20views&color=0e75b6&style=flat" alt="lilalae" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/lilxalae" target="blank"><img src="https://img.shields.io/twitter/follow/lilxalae?logo=twitter&style=for-the-badge" alt="RockYou" /></a> </p>
 
