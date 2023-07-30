@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilalae&label=Profile%20views&color=0e75b6&style=flat" alt="lilalae" /> </p> -->
 
-- 📫 How to reach me **ael-korc@student.1337.ma**
+- 📫 How to reach me **elkorchi.alae@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
