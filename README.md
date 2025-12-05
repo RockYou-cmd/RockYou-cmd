@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=500&lines=System+Online:+Welcome+Traveler;Pilot:+Alae+El+Korchi;Destination:+The+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=800&lines=System+Online:+Welcome+Traveler;Pilot:+RockYou;Destination:+The+Future" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,20 +19,6 @@
   </p>
 </div>
 
-<br/>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  <span style="color: #ce3df3">Mission Data</span>
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilalae&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilalae&theme=radical&hide_border=true&background=0d1117" alt="streak" />
-</div>
-
-<br/>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -59,7 +45,7 @@
   <a href="https://twitter.com/RoockYou" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FAFAFA?style=for-the-badge&logo=twitter&logoColor=ce3df3&labelColor=2a2a2a" />
   </a>
-  <a href="https://instagram.com/lilxalae" target="_blank">
+  <a href="https://instagram.com/alaeeeeeeeee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FAFAFA?style=for-the-badge&logo=instagram&logoColor=ce3df3&labelColor=2a2a2a" />
   </a>
   <a href="https://discord.com/users/3684" target="_blank">
